@@ -1,0 +1,8 @@
+project:
+  name: buildr-test-fastapi
+  preset: fastapi-postgres
+
+deployment:
+  domain: buildr-test-fastapi.001746.xyz
+  repository: https://github.com/rosiinante-alt/buildr-test-fastapi
+  branch: main
